@@ -1,16 +1,24 @@
-## Hi there 👋
+# Project Name
 
-<!--
-**tharindudhananjayaekanayaka-hub/tharindudhananjayaekanayaka-hub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 📌 Description
+Short description of project
 
-Here are some ideas to get you started:
+## 🚀 Features
+- Feature 1
+- Feature 2
+- Feature 3
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Technologies
+- Python
+- React
+- MongoDB
+
+## 📷 Screenshots
+(Add images)
+
+## ▶️ How to Run
+
+git clone repo-link  
+cd project  
+npm install  
+npm start
