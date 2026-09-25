@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Namaskara, I'm Tharindu Dhananjaya Ekanayaka!
+# 👋 Hey , I'm Tharindu Dhananjaya Ekanayaka!
 
 ### 🤖 AI & Machine Learning Engineer
 ### 🧠 Agentic AI • RAG • Multi-Agent Systems • Full-Stack AI
